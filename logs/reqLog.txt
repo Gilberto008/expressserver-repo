@@ -1,0 +1,8 @@
+4dd50197-6f95-4dcb-9f72-75c060fba45d	20240125	19:43:25	GET	/ 	undefined
+a2b6abf7-eb5d-4dae-92e6-f4a13a5635b8	20240125	19:43:34	GET	/css/index1.css 	undefined
+28ca44eb-42af-4eac-84af-9838c22d7acb	20240125	19:43:35	GET	/favicon.ico 	undefined
+0461fd2f-8c75-43dd-9ea2-16c01946c415	20240125	19:43:44	GET	/dave 	undefined
+7e14dc04-8d82-491e-a3c0-67f5dbb6d27c	20240125	19:43:44	GET	/css/404.css 	undefined
+072f570a-21a4-47a7-b568-f4ed5ecb0142	20240125	19:43:51	GET	/new-page 	undefined
+ad8f8d17-f935-441c-bbf4-e1587fb104a5	20240125	19:43:52	GET	/css/new-page.css 	undefined
+d31ab9eb-154b-4529-909c-7091d95d3f0e	20240125	19:43:52	GET	/img/img1.jpg 	undefined
